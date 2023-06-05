@@ -1,0 +1,46 @@
+.lyrics {
+  max-width: 600px;
+  margin: 20px auto;
+  background-color: #e8fdfd;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-family:  Georgia, 'Times New Roman',  serif;
+  font-size: 40px;
+  align-items: center;
+  margin: 0;
+  color: #333;
+}
+
+h2 {
+  font-family: "Arial", sans-serif;
+  font-size: 30px;
+  margin: 0;
+  color: #333;
+}
+
+p {
+  font-family: "Arial", sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  margin: 0 0 10px 0;
+}
+
+.verse {
+  font-style: italic;
+  color: green; /* Represents hope */
+}
+
+.chorus {
+  font-weight: bold;
+  color: blue; /* Represents dreams */
+}
+
+.bridge {
+  font-size: 15px;
+  font-weight: bold;
+  color: #ff0000; /* Represents love */
+}
